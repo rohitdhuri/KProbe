@@ -13,7 +13,7 @@ Kernel module that takes the process-ID of an active process as an argument via 
 5. Remove the kernel module.
 
 #### Credits
-Author: Rohit Mahendra Dhuri
+Author: Rohit Mahendra Dhuri  
 Developed on Ubuntu 18.04.3 LTS
 
 
