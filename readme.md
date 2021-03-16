@@ -2,7 +2,7 @@
 Spring 2020  
 State University of New York at Binghamton 
 
-##Project Title
+##Project Title  
 Kernel module that takes the process-ID of an active process as an argument via the module parameter, and tracks all the virtual addresses on which the target process faults. It will print the virtual addresses to the system log using printk(). This works for any arbitrary target process.
 
 ###Usage
